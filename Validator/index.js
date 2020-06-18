@@ -26,7 +26,7 @@ exports.createPostValidator = (req, res, next) => {
 			error: FirstError 
 		});
 	}
-next();
+
 };
 
 
